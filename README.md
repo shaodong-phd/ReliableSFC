@@ -5,7 +5,7 @@ Edge networks (ENs) possess the capability to deliver low-latency network servic
 
 
 
-We will describe the role of the aforementioned files, along with the experimental parameters and execution steps, to provide researchers with the opportunity to reproduce and extend the scheme TTSP.
+We will describe the role of the important files, along with the experimental parameters and execution steps, to provide researchers with the opportunity to reproduce and extend the scheme TTSP.
 
 ### Files Description:
 
