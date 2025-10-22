@@ -44,7 +44,8 @@ We will describe the role of the aforementioned files, along with the experiment
   ```
 
 ### Execution Steps:
+**Step 01**: Researchers download the code files and configure the basic Python environment. For example, researchers need to import numpy as np.
 
-1. **Step 01**: Researchers download the code files and configure the basic Python environment. For example, researchers need to import numpy as np.
-2. **Step 02**: Load the dataset information.
-3. **Step 03**: Run the TSP.py to test TTSP algorithm.
+**Step 02**: Load the dataset information.
+
+**Step 03**: Run the TSP.py to test TTSP algorithm.
