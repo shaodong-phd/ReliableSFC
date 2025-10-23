@@ -16,8 +16,8 @@ from entity import VNF
 import copy
 import time
 
-TIME = 20  # the number of time slot
-TIME_FRAME = 5  # the length of time frame
+TIME = 0  # the number of time slot e.g., 20 21 22.
+TIME_FRAME = 0  # the length of time frame e.g., 5.
 NODE_NUM = 11  # the number of edge node
 
 VNF_TYPE_NUM = 7
@@ -131,3 +131,4 @@ if __name__ == '__main__':
         max_df_sfc_num = max(max_df_sfc_num, len(df_sfc))
     print("average ratio in multiple time slots ", total_df_sfc / (TIME*SFC_NUM))
     print("max ratio in multiple time slots ", max_df_sfc_num/SFC_NUM)
+
